@@ -28,5 +28,6 @@ Hi, I'm Paul! I'm a software developer who is passionate about learning and grow
 
 
 ## Find me around the web 🌎:
-* Making connections on [LinkedIn]("https://www.linkedin.com/in/paulvaldes/">LinkedIn) 💼
-* Lurking and learning on [Twitter]("https://www.twitter.com/paulvaldes13">Twitter) 👀👨🏻‍💻
+* Making connections on [LinkedIn](https://www.linkedin.com/in/paulvaldes") 💼
+* Lurking and learning on [Twitter](https://www.twitter.com/paulvaldes13) 👀👨🏻‍💻
+* Tech profile on [Triplebyte](https://triplebyte.com/tb/paul-valdes-rdccvev)
