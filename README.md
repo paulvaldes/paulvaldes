@@ -1,11 +1,6 @@
 # Hello 👋🏻 👨🏻‍💻
 
-Hi, I'm Paul! I'm a software developer who is passionate about learning and growing as a developer. I have a significant amount of experience in various industries that gives me valuable perspective when developing applications.
-
-### Seeking a full-time role as:
-* iOS Developer
-* Fullstack Web Developer
-* Front-End Developer
+Hi, I'm Paul! I'm a iOS Engineer who is passionate about learning and growing as a developer. I have a significant amount of experience in various industries that gives me valuable perspective when developing applications.
 
 ### Languages:
 * Swift
